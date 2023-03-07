@@ -1,4 +1,4 @@
-import UserNav from "../../client/components/nav/UserNav";
+// import UserNav from "../../client/components/nav/UserNav";
 import User from "../models/user";
 import Course from "../models/course";
 
